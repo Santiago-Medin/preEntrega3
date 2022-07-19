@@ -31,8 +31,12 @@ ul {
   color: #fff !important;
 }
 
+.navbar {
+  color: white;
+}
+
 body {
-  background-color: #0d2033;
+  background-color: #181818;
 }
 
 .header {
