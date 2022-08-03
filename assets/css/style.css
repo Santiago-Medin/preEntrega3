@@ -99,7 +99,7 @@ body {
   margin-top: 50px;
   color: white;
 }
-.header-contentNuevo h2 {
+.header-contentNuevo h3 {
   font-size: 4vmin;
   color: white;
   margin-bottom: 20px;
@@ -110,11 +110,17 @@ body {
   margin-bottom: 100px;
   color: #fff;
   text-align: center;
+  overflow: hidden;
+  margin: 20px;
 }
 
 .mainTituloIndex h1 {
   font-size: 7vmin;
   margin-top: 20px;
+}
+
+.mapagoogle {
+  width: 100%;
 }
 
 /*Cards*/
