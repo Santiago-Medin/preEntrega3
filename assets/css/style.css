@@ -20,7 +20,7 @@ ul {
 }
 
 .navbar {
-  background-color: #0d2033 !important;
+  background-color: #1a334d !important;
 }
 
 .navbar-brand {
@@ -90,7 +90,6 @@ body {
 }
 
 .header-contentNuevo {
-  margin-bottom: 150px;
   color: black;
   text-align: center;
 }
